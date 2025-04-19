@@ -9,10 +9,10 @@ PLAYLEVEL	5
 WEATTRIBUTE	狂
 CHARTCONST	15.20000
 SONGID	leviern nabyss
-BGM	music.wav
+BGM	Leviern.wav
 BGMOFFSET	0.00000
 BGMPREVIEW	0.00000	0.00000
-JACKET	jacket.png
+JACKET	Leviern.png
 BG	
 BGSCENE	s_example_scene
 BGSYNC	1

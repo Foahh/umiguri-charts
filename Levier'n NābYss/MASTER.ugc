@@ -8,10 +8,10 @@
 @WEATTR	狂
 @CONST	15.20000
 @SONGID	leviern nabyss
-@BGM	music.wav
+@BGM	Leviern.wav
 @BGMOFS	0.00000
 @BGMPRV	0.00000	0.00000
-@JACKET	jacket.png
+@JACKET	Leviern.png
 @BGSCENE	s_example_scene
 @BGMODE	PASSIVE	FALSE
 @FLDCOL	0

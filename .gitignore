@@ -4,3 +4,6 @@
 !*.ugc
 !*.gitignore
 !*.gitattributes
+
+!README.md
+!LICENSE

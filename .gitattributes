@@ -1,0 +1,3 @@
+text=auto
+*.mgxc text eol=lf
+*.ugc text eol=crlf

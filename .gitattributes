@@ -1,3 +1,2 @@
 text=auto
-*.mgxc text eol=lf
-*.ugc text eol=crlf
+*.ugc text eol=lf

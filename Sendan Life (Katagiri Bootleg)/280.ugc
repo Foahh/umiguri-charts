@@ -10,7 +10,7 @@
 @WEATTR	狂
 @CONST	15.20000
 @SONGID	9033
-@BGM	280.wav
+@BGM	280.ogg
 @BGMOFS	0.00000
 @BGMPRV	39.00000	59.00000
 @JACKET	Sendan Life.jpg
@@ -29,7 +29,6 @@
 @DLURL	
 @COPYRIGHT	
 @LICENSE		
-@CMT	#meta normalize false
 @TICKS	480
 @BEAT	0	4	4
 @BEAT	1	24	8

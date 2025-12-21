@@ -1,4 +1,4 @@
-' Created with Margrete v1.7.8-6320c9f
+' Created with Margrete v1.8.0-23b6ce2
 @VER	8
 @EXVER	1
 @TITLE	The Future of the 太鼓ドラム　/　太鼓 de タイムトラベル2765
@@ -343,7 +343,7 @@
 #5>c4828
 #230'0:h48
 #960>s
-#231'0:S4828N
+#231'0:H4828N
 #5>s4828
 #239'0:x06U
 #239'80:fB3A
@@ -768,7 +768,7 @@
 #289'960:x13C
 #289'1440:xD3C
 #292'0:xD3U
-#292'0:SD328N
+#292'0:HD328N
 @USETIL	3
 #5>sD328
 @USETIL	0
@@ -795,7 +795,7 @@
 #5>cD314
 @USETIL	0
 #292'0:x03U
-#292'0:S0328N
+#292'0:H0328N
 @USETIL	3
 #5>s0328
 @USETIL	2
